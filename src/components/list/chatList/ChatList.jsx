@@ -1,7 +1,7 @@
 import "./chatList.css";
 
 const ChatList = () => {
-    return <></>
+    return <>Chat list</>
 }
 
 export default ChatList;

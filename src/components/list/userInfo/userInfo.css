@@ -20,6 +20,8 @@
   .icons {
     display: flex;
     gap: 20px;
+    justify-items: center;
+    align-items: center;
 
     img {
       width: 20px;
